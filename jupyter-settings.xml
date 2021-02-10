@@ -1,0 +1,43 @@
+<application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="urlString" value="http://localhost:8890" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="bff9c07fc14fbda2c625956fab43323d40fa2174d31d6f4b" />
+          <option name="urlString" value="http://localhost:8891/" />
+          <authParams2>
+            <map>
+              <entry key="token" value="bff9c07fc14fbda2c625956fab43323d40fa2174d31d6f4b" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/work-ayi/github/czsc/.idea/czsc.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="bff9c07fc14fbda2c625956fab43323d40fa2174d31d6f4b" />
+              <option name="urlString" value="http://localhost:8891/" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="bff9c07fc14fbda2c625956fab43323d40fa2174d31d6f4b" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
