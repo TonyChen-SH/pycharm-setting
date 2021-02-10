@@ -26,14 +26,8 @@
         <entry key="$USER_HOME$/work-ayi/github/czsc/.idea/czsc.iml">
           <value>
             <JupyterConnectionParameters>
-              <option name="authType" value="notebook" />
-              <option name="token" value="bff9c07fc14fbda2c625956fab43323d40fa2174d31d6f4b" />
-              <option name="urlString" value="http://localhost:8891/" />
-              <authParams2>
-                <map>
-                  <entry key="token" value="bff9c07fc14fbda2c625956fab43323d40fa2174d31d6f4b" />
-                </map>
-              </authParams2>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="C:\Users\admin\anaconda3\python.exe" />
             </JupyterConnectionParameters>
           </value>
         </entry>
